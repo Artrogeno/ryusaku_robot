@@ -1,0 +1,23 @@
+{
+  "name": "ryusaku_robot",
+  "version": "1.0.0",
+  "description": "Project open source, my first robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artrogeno/ryusaku_robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artrogeno/ryusaku_robot/issues"
+  },
+  "homepage": "https://github.com/Artrogeno/ryusaku_robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
